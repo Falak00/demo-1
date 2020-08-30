@@ -1,1 +1,4 @@
 hi , bye
+up . down
+in , out
+on , off
